@@ -30,3 +30,11 @@ La aplicación se abrirá automáticamente en el navegador configurado por defec
 Para instalar los módulos necesarios para la aplicación, debes ejecutar el comando `npm install` en el terminal.
 
 
+## RETOS   
+
+1.- App.js y modificarlo para añadir un nuevo componente para el logo de freeCodeCamp, segundo <div> del return del componente App
+de tal manera que en App.js en esa parte solo se haga la llamada a ese componente. El componente debe estar definido en la carpeta Componentes
+
+2.- Manejo de posibles errores en el uso de la calculadora, por ejemplo añado dos o tres operadores seguidos y luego un numero,  no ocurre nada
+
+
