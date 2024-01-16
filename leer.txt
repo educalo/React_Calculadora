@@ -8,8 +8,8 @@
 6.- Creo dentro de la carpeta componentes boton.js, botonClear.js, Pantalla.js
 7.- Creo dentro de la carpeta hoja-de-estilo Boton.css, BotonClear.css  y Pantalla.css
 
-8.- Defino el componente boton dentro de la carpeta componentes boton.js
-9.- Defino el componente botonClear dentro de la carpeta componentes botonClear.js
+8.- Defino el componente Boton dentro de la carpeta componentes boton.js
+9.- Defino el componente BotonClear dentro de la carpeta componentes botonClear.js
 9.- Defino el componente Pantalla dentro de la carpeta componentes Pantalla.js
 
 10.- El componente App.js va a renderizar la Pantalla y los botones
