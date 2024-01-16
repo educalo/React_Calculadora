@@ -7,10 +7,21 @@
 
 6.- Creo dentro de la carpeta componentes boton.js, botonClear.js, Pantalla.js
 7.- Creo dentro de la carpeta hoja-de-estilo Boton.css, BotonClear.css  y Pantalla.css
+8.- Hay tres componentes uno App y dentro de este se llama a tres componentes Boton, BotonClear y Pantalla.
 
-8.- Defino el componente Boton dentro de la carpeta componentes boton.js
-9.- Defino el componente BotonClear dentro de la carpeta componentes botonClear.js
-9.- Defino el componente Pantalla dentro de la carpeta componentes Pantalla.js
 
-10.- El componente App.js va a renderizar la Pantalla y los botones
+9.- Defino el componente Boton dentro de la carpeta componentes boton.js
+10.- Defino el componente BotonClear dentro de la carpeta componentes botonClear.js
+11.- Defino el componente Pantalla dentro de la carpeta componentes Pantalla.js
+
+12.- El componente App.js va a renderizar la Pantalla y los botones
+
+
+RETOS   
+
+1.- App.js y modificarlo para añadir un nuevo componente para el logo de freeCodeCamp, segundo <div> del return del componente App
+de tal manera que en App.js en esa parte solo se haga la llamada a ese componente. El componente debe estar definido en la carpeta Componentes
+
+2.- Manejo de posibles errores en el uso de la calculadora, por ejemplo añado dos o tres operadores seguidos y luego un numero,  no ocurre nada
+
 
