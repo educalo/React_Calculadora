@@ -1,7 +1,25 @@
 # 📌 Calculadora Interactiva
-¡Hola! Esta es una aplicación desarrollada con React, una calculadora interactiva que realiza las cuatro operaciones aritméticas básicas (suma, resta, multiplicación y división). 
+PROYECTO REACT
 
-Esta aplicación fue creada por [Estefania Cassingena Navone](https://twitter.com/EstefaniaCassN) para el curso [Aprende React Desde Cero](https://www.youtube.com/watch?v=6Jfk8ic3KVk) publicado en el canal de YouTube freeCodeCamp Español. Su estructura inicial fue creada con el comando `npx create-react-app`.
+IMPORTANTE LEER EL FICHERO leer.txt
+
+Tener en cuenta:
+
+Para crear el proyecto voy a la web https://create-react-app.dev/docs/getting-started donde veo los comandos necesarios para crear el esqueleto
+
+npx create-react-app nombreapp
+
+cd nombreapp
+
+npm start
+
+1.- npm install para instalar las dependencias definidas el fichero package.json. la carpeta node_modules esta incluida en .gitignore para no subirlas a github
+
+2.- npm start para iniciar el servidor web
+
+1.- git init para iniciar git en nuestro proyecto desde una terminal.
+
+2.- git log para comprobar el historico de uso de git en tu proyecto
 
 ## Ejecutar la Aplicación
 Para iniciar la aplicación, debes ejecutar el comando `npm start` en el terminal. Si trabajas con Visual Studio Code, puedes abrir el terminal con el atajo de teclado `ctrl + ñ` si tu teclado está en español y con ``ctrl + ` `` si tu teclado está en inglés.
