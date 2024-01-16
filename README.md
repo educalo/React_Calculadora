@@ -33,7 +33,7 @@ Para instalar los módulos necesarios para la aplicación, debes ejecutar el com
 
 1.- Pasar datos a componente a través de etiquetas cerradas con props.children.
 
-2.- Referencia y manejo del paquete mathjs y como instalarlo 
+2.- Manejo del paquete mathjs y como instalarlo 
 
 
 ## RETOS   
